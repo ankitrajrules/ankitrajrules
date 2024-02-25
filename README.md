@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&duration=4000&pause=150&color=00C217CC&background=0D0208&random=false&width=600&height=100&lines=Wake+Up%2C+Visitor...;My+Github+has+you.)](https://git.io/typing-svg)
 
 **ankitrajrules/ankitrajrules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-### Canvas Animation Example
-
-<iframe src="./matrix.html" width="100%" height="400"></iframe>
