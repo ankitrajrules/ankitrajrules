@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&duration=4000&pause=150&color=00EFA7CC&background=0D0208&random=false&width=600&height=50&lines=Wake+Up%2C+Visitor...;My+Github+has+you.)](https://git.io/typing-svg)
 
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,nodejs,mongodb,postgres,mysql,cs,dotnet)](https://skillicons.dev)
+
 **ankitrajrules/ankitrajrules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
