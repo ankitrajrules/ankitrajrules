@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&duration=4000&pause=150&color=00EFA7CC&background=0D0208&random=false&width=600&height=50&lines=Wake+Up%2C+Visitor...;My+Github+has+you.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&duration=4000&pause=150&color=00EFA7CC&background=0000000&random=false&width=400&height=50&lines=Wake+Up%2C+Visitor...;My+Github+has+you.)](https://git.io/typing-svg)
 
 ## Tech Stack
 
@@ -8,7 +8,7 @@
 
 **ankitrajrules/ankitrajrules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/ankitrajrules" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitrajrules" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankitrajrules" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitrajrules" height="30" width="40" /></a>
