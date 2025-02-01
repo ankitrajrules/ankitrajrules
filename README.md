@@ -23,9 +23,9 @@ Free spirit on a tech odyssey 🚀 \
 I'm Ankit Raj a techie who likes making virtual software stuff and would like to integrate it with hardware in coming future. \
 Constantly upgrading myself to tame wild AIs and hack the future. I explore new technologies and build software solutions to our world's ever-evolving tech puzzles.
 
-<img align="right" src="./handloading.gif" height="100px" />
 
 <h2> Stacked and loaded:</h2>
+<img align="right" src="./handloading.gif" height="100px" />
 
 - C#.NET Ecosystem & Java Spring Framework: Crafting robust, scalable backend magic.
 - MERN Stack: Creating slick, modern web apps with a twist of creativity.
@@ -58,8 +58,8 @@ Let's break the norms, push the limits, and code our way to a better tomorrow!
     <h2>📊 GitHub Stats</h2>
   </summary>
     <div align="center">
-          <img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitrajrules&show_icons=true&locale=en&layout=compact&theme=radical&w" alt="Top Languages">
-          <img height="200px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitrajrules&theme=radical" alt="GitHub Streak">
+      <img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitrajrules&show_icons=true&locale=en&layout=compact&theme=radical&w" alt="Top Languages">
+      <img height="200px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitrajrules&theme=radical" alt="GitHub Streak">
     </div>
     <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=ankitrajrules&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="My Github Stats">
 </details>
